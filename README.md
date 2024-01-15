@@ -1,14 +1,15 @@
-<h1 align="center">Buenas!👋, soy Manu Villar</h1>
+<h1 align="center">¡Buenas!👋, soy Manu Villar</h1>
 <h3 align="center">Desarrollador web, me apasiona resolver problemas a través de la programación e intentar hacerlo de la forma más eficiente posible.</h3>
 
-- 💬 Ask me about **HTML, CSS, JS,TypeScript, MEAN, Vue.js, React, MERN, PHP, MySQL**
+- 📝 Suelo escribir mis proyectos en Linkedin [https://www.linkedin.com/in/manuel-jes%c3%bas-villar-jim%c3%a9nez-0355382a2/](https://www.linkedin.com/in/manuel-jes%c3%bas-villar-jim%c3%a9nez-0355382a2/)
 
-- 📫 How to reach me **manuvillartech@gmail.com**
+- 💬 He trabajado con **HTML, CSS, JS,TypeScript, MEAN, Vue.js, React, MERN, PHP, MySQL**
+
+- 📫 Puedes contactarme en **manuvillartech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mvtech25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mvtech25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/manuel-jesús-villar-jiménez-0355382a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manuel-jesús-villar-jiménez-0355382a2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
