@@ -1,4 +1,4 @@
-<h1 align="center">¡Buenas!👋, soy Manu Villar</h1>
+<h1 align="center">Buenas!👋, soy Manu Villar</h1>
 <h3 align="center">Desarrollador web, me apasiona resolver problemas a través de la programación e intentar hacerlo de la forma más eficiente posible.</h3>
 
 - 💬 Ask me about **HTML, CSS, JS,TypeScript, MEAN, Vue.js, React, MERN, PHP, MySQL**
@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mvtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvtech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manu villar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manu villar" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/mvtech25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mvtech25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manu-villar-0355382a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manu-villar-0355382a2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
