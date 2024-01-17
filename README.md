@@ -7,7 +7,8 @@
 
 - 📫 Puedes contactarme en **manuvillartech@gmail.com**
 
-- Proyecto 1, frontEndStore: https://mvshop1.netlify.app/
+- Proyectos:
+  - Proyecto 1, frontEndStore: https://mvshop1.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
