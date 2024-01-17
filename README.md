@@ -1,4 +1,4 @@
-<h1 align="center">¡Buenas!👋, soy Manu Villar</h1>
+<h1 align="center">¡Buenas 👋! soy Manu Villar</h1>
 <h3 align="center">Desarrollador web, me apasiona resolver problemas a través de la programación e intentar hacerlo de la forma más eficiente posible.</h3>
 
 - 📝 Suelo escribir mis proyectos en Linkedin [https://www.linkedin.com/in/manuel-jes%c3%bas-villar-jim%c3%a9nez-0355382a2/](https://www.linkedin.com/in/manuel-jes%c3%bas-villar-jim%c3%a9nez-0355382a2/)
