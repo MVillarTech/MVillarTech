@@ -7,7 +7,7 @@
 
 - 📫 Puedes contactarme en **manuvillartech@gmail.com**
 
-- Mi portfolio en github: https://mvillartech.github.io/mi-portfolio/#connect-with-me
+- Proyecto 1, frontEndStore: https://mvshop1.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
