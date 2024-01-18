@@ -9,6 +9,7 @@
 
 - Proyectos:
   - Proyecto 1, frontEndStore: https://mvshop1.netlify.app/
+  - Proyecto 2, página de contacto a un desarrollador frelancer: https://paginadecontactomvtech.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
