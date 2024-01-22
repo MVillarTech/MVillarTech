@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Festival de Música Extremeño</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="build/css/app.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="contenedor contenido-header">
+            <h1>Festival de Música Extremeño</h1>
+
+            <nav class="navegacion-principal">
+                <a href="#lineup">Artistas</a>
+                <a href="#galeria">Galería</a>
+                <a href="#boletos">Entradas</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="video">
+        <div class="overlay">
+            <div class="contenedor contenido-video">
+                <h2>Pop, rock y música urbana</h2>
+                <p>Enero 2024, Mérida (Badajoz), Extremadura</p>
+            </div>
+        </div>
+        <video autoplay muted loop>
+            <source src="video/concierto.mp4" type="video/mp4">
+            <source src="video/concierto.ogg" type="video/ogg"> <!--Formato para algunos reproductores que no son compatibles-->
+            <source src="video/concierto.webm" type="video/webm"> <!--Formato para algunos reproductores que no son compatibles-->
+        </video>
+    </div>
+
+    <section class="contenedor sobre-festival">
+        <div class="imagen">
+            <picture>
+                <source srcset="build/img/imagen_vocalista.avif" type="image/avif">
+                <source srcset="build/img/imagen_vocalista.webp" type="image/webp">
+                <img loading="lazy" width="200" height="300" src="build/img/imagen_vocalista.jpg" alt="imagen vocalista">
+            </picture>
+
+
+        </div>
+        <div class="contenido-festival">
+            <h2>Pop, rock y música urbana</h2>
+            <p class="fecha">Enero 2024, Mérida (Badajoz), Extremadura</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a tortor dui. Etiam porta magna pulvinar sem sollicitudin, eu ornare ipsum ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id risus eu odio dapibus porttitor mattis hendrerit nibh. Proin vulputate bibendum ligula rhoncus tincidunt. Nunc ac faucibus nunc. Vivamus magna purus, condimentum a luctus quis, vestibulum quis justo.</p>
+        </div>
+    </section>
+
+
+    <section id="lineup" class="lineup">
+        <h3>Conciertos</h3>
+
+        <p class="dia">1 de Enero</p>
+
+        <div class="escenarios-contenedor contenedor">
+            <div class="escenario rock bg-amarillo">
+                <p class="nombre-escenario">Escenario de Rock</p>
+
+                <ul class="calendario">
+                    <li>
+                        24:00 | <span>Metallica</span>
+                    </li>
+                    <li>
+                        22:00 | <span>Pearl Jam</span>
+                    </li>
+                    <li>
+                        20:00 | <span>KoRn</span>
+                    </li>
+                    <li>
+                        19:00 | <span>Muse</span>
+                    </li>
+                    <li>
+                        18:00 | <span>Breaking Benjamin</span>
+                    </li>
+                    <li>
+                        17:00 | <span>30 Seconds to Mars</span>
+                    </li>
+                </ul>
+            </div> <!-- Escenario -->
+
+            <div class="escenario pop bg-verde">
+                <p class="nombre-escenario">Escenario de Pop</p>
+
+                <ul class="calendario">
+
+                    <li>
+                        24:00 | <span>Lady Gaga</span>
+                    </li>
+                    <li>
+                        22:00 | <span>Rihanna</span>
+                    </li>
+                    <li>
+                        20:00 | <span>Aitana</span>
+                    </li>
+                    <li>
+                        19:00 | <span>Lola Indigo</span>
+                    </li>
+                    
+                    <li>
+                        18:00 | <span>La rosalia</span>
+                    </li>
+                    <li>
+                        17:00 | <span>Madonna</span>
+                    </li>
+                </ul>
+            </div> <!-- Escenario -->
+        </div> <!-- escenarios-contenedor -->
+
+        <p class="dia">2 de Enero</p>
+
+        <div class="escenarios-contenedor contenedor">
+            <div class="escenario pop bg-verde">
+                <p class="nombre-escenario">Escenario de Música Urbana</p>
+
+                <ul class="calendario">
+
+                    <li>
+                        24:00 | <span>Bad Bunny</span>
+                    </li>
+                    <li>
+                        22:00 | <span>J Balvin</span>
+                    </li>
+                    <li>
+                        20:00 | <span>Arcangel</span>
+                    </li>
+                    <li>
+                        19:00 | <span>Anuel AA</span>
+                    </li>
+                    
+                    <li>
+                        18:00 | <span>Rochy RD</span>
+                    </li>
+                    <li>
+                        17:00 | <span>El Alfa</span>
+                    </li>
+                </ul>
+            </div> <!-- Escenario -->
+
+            <div class="escenario rock bg-amarillo">
+                <p class="nombre-escenario">Escenario de Actuaciones</p>
+
+                <ul class="calendario">
+
+                    <li>
+                        24:00 | <span>WWE</span>
+                    </li>
+                    <li>
+                        22:00 | <span>Culturismo</span>
+                    </li>
+                    <li>
+                        20:00 | <span>Powerlifting</span>
+                    </li>
+                    <li>
+                        19:00 | <span>Kings League</span>
+                    </li>
+                    
+                    <li>
+                        18:00 | <span>Batalla de Gallos</span>
+                    </li>
+                    <li>
+                        17:00 | <span>Playoff de ascenso a Primera División</span>
+                    </li>
+                </ul>
+            </div> <!-- Escenario -->
+        </div> <!-- escenarios-contenedor -->
+    </section>
+
+    <section id="galeria" class="galeria contenedor"> 
+        <h3>Galeria</h3>
+
+        <ul class="galeria-imagenes"></ul>
+    </section> <!-- Galeria -->
+
+    <section id="boletos" class="boletos bg-verde">
+        <h3>Entradas</h3>
+
+        <div class="contenedor contenedor-boletos">
+            <div class="basico pase">
+                <p class="nombre-pase">Pase de 1 dia</p>
+                <header class="pase-header">
+                    <p>Incluye</p>
+                </header>
+
+                <div class="pase-body">
+                    <ul>
+                        <li>Acceso a los conciertos</li>
+                        <li>Camiseta del evento</li>
+                    </ul>
+                </div>
+
+                <footer class="pase-footer">
+                    <p>50€</p>
+                </footer>
+
+            </div> 
+
+            <div class="premium pase">
+                <p class="nombre-pase">Pase Completo</p>
+
+                <header class="pase-header">
+                    <p>Incluye</p>
+                </header>
+
+            <div class="pase-body">
+                <ul>
+                    <li>Acceso a los conciertos</li>
+                    <li>Camiseta del evento</li>
+                    <li>Comida y bebida</li>
+                    <li>Acceso VIP</li>
+                </ul>
+            </div>
+
+            <footer class="pase-footer">
+                <p>100€</p>
+            </footer>
+
+            </div>
+        </div> <!-- Entradas -->
+
+    </section>
+
+    <footer class="site-footer">
+        <p>Festival de música extremeño. Todos los derechos reservados</p>
+    </footer>
+    <script src="build/js/app.js"></script>
+
+</body>
+</html>
