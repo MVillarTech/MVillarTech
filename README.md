@@ -16,7 +16,8 @@
   - Proyecto 4, Festival de Música: https://festivaldemusicaextremenio.netlify.app/
   - Proyecto 5, Bienes Raices en Extremadura: https://realestateextremadura.netlify.app/
   - Proyecto 6, Formulario para emails: https://enviaremailsmanuvillar.netlify.app/
-  - Proyecto 7, Buscador de coches con temática en Extremadura: https://buscadordecochesenextremadura.netlify.app/ 
+  - Proyecto 7, Buscador de coches con temática en Extremadura: https://buscadordecochesenextremadura.netlify.app/
+  - Proyecto 8, Lista de Tareas con LocalStorage: https://listadetareasconlocalstoragemvtech.netlify.app/
  
 - Cursos realizados
 
