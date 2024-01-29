@@ -18,6 +18,7 @@
   - Proyecto 6, Formulario para emails: https://enviaremailsmanuvillar.netlify.app/
   - Proyecto 7, Buscador de coches con temática en Extremadura: https://buscadordecochesenextremadura.netlify.app/
   - Proyecto 8, Lista de Tareas con LocalStorage: https://listadetareasconlocalstoragemvtech.netlify.app/
+  - Proyecto 9, Carrito de compra: https://proyectocarritodecompramanuvillar.netlify.app/
  
 - Cursos realizados
 
