@@ -22,9 +22,17 @@
   - Proyecto 10, Comparador de seguros: https://comparadordesegurosenextremadura.netlify.app/
   - Proyecto 11, Aministración del presupuesto: https://administraciondepresupuestomvillar.netlify.app/
   - Proyecto 12, Administración de citas en una veterinaria: https://citasenvetexcentroextremenio.netlify.app/
-  - Proyecto 13, Amdministración de clientes con IndexDB: https://herramientaseguimientoclientesmvtech.netlify.app/ 
+  - Proyecto 13, Amdministración de clientes con IndexDB: https://herramientaseguimientoclientesmvtech.netlify.app/
+  - Proyecto 14, Buscador de clima por ciudad con API: https://apidebuscarelclimapormanuvillar.netlify.app/
  
 - Cursos realizados
+
+    1. Responsive Web Desing: https://www.freecodecamp.org/espanol/certification/MVillar/responsive-web-design
+    2. Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS: https://drive.google.com/file/d/1th-1CNQoj1zKBvhVUqD8eEiIyFGsqDUU/view?usp=drive_link
+    3. JavaScript Moderno Guía Definitiva Construye +20 Proyectos: https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/
+    4. Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL: https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/
+    5. React - La Guía Completa: Hooks Context Redux MERN +15 Apps: https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
