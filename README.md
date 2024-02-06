@@ -24,6 +24,7 @@
   - Proyecto 12, Administración de citas en una veterinaria: https://citasenvetexcentroextremenio.netlify.app/
   - Proyecto 13, Amdministración de clientes con IndexDB: https://herramientaseguimientoclientesmvtech.netlify.app/
   - Proyecto 14, Buscador de clima por ciudad con API: https://apidebuscarelclimapormanuvillar.netlify.app/
+  - Proyecto 15, Buscador de recetas: https://buscadorderecetaspormvillar.netlify.app/
  
 - Cursos realizados
 
