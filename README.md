@@ -25,6 +25,7 @@
   - Proyecto 13, Amdministración de clientes con IndexDB: https://herramientaseguimientoclientesmvtech.netlify.app/
   - Proyecto 14, Buscador de clima por ciudad con API: https://apidebuscarelclimapormanuvillar.netlify.app/
   - Proyecto 15, Buscador de recetas: https://buscadorderecetaspormvillar.netlify.app/
+  - Proyecto 16, Buscador de imagenes: https://buscardorimagenesconpixabaymanuvillar.netlify.app/
  
 - Cursos realizados
 
