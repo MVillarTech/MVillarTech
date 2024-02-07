@@ -30,7 +30,7 @@
 - Cursos realizados
 
     1. Responsive Web Desing: https://www.freecodecamp.org/espanol/certification/MVillar/responsive-web-design
-    2. Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS: https://drive.google.com/file/d/1th-1CNQoj1zKBvhVUqD8eEiIyFGsqDUU/view?usp=drive_link
+    2. Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS: https://www.udemy.com/certificate/UC-266408c7-5c27-4ff2-b18d-03ceb8c430ed/
     3. JavaScript Moderno Guía Definitiva Construye +20 Proyectos: https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/
     4. Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL: https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/
     5. React - La Guía Completa: Hooks Context Redux MERN +15 Apps: https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/
