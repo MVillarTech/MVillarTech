@@ -27,6 +27,7 @@
   - Proyecto 15, Buscador de recetas: https://buscadorderecetaspormvillar.netlify.app/
   - Proyecto 16, Buscador de imagenes: https://buscardorimagenesconpixabaymanuvillar.netlify.app/
   - Proyecto 17, Comparador de criptomonedas: https://comparadordepreciocriptomonedasmvtech.netlify.app/
+  - Proyecto 18, Calculadora de consumo y propinas: https://calculadoradepropinasmvtech.netlify.app/
  
 - Cursos realizados
 
