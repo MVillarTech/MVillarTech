@@ -28,6 +28,8 @@
   - Proyecto 16, Buscador de imagenes: https://buscardorimagenesconpixabaymanuvillar.netlify.app/
   - Proyecto 17, Comparador de criptomonedas: https://comparadordepreciocriptomonedasmvtech.netlify.app/
   - Proyecto 18, Calculadora de consumo y propinas: https://calculadoradepropinasmvtech.netlify.app/
+  - Proyecto 19, Cotizador de seguros con React: https://cotizadorconreactmvtech.netlify.app/
+  - Proyecto 20, Cotizador de seguros con Vue: https://prestamos-con-vue-mvtech.netlify.app/
  
 - Cursos realizados
 
